@@ -24,3 +24,5 @@ cargo run
 
 Reference:
 https://github.com/cdong1012/Crab-Runner
+https://learn.microsoft.com/en-us/windows/dev-environment/rust/rust-for-windows
+https://gist.github.com/matterpreter/03e2bd3cf8b26d57044f3b494e73bbea
